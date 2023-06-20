@@ -154,11 +154,18 @@ cargoAcceptance:
 - FOOD
 - POTA
 cargoProduction:
+- STAL
 - ALUM
+- STCB
+- STST
+- STSE
+- STSH
+- STWR
+- CSTI
 - FECR
-- MNO2
-- PLAS
-- RUBR
+- IRON
+- PIPE
+- ZINC
 colour: 177
 fundCostMultiplier: 152
 id: 5
