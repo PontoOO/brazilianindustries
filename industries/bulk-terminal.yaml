@@ -292,7 +292,7 @@ layout:
     - -1
 name: Bulk Terminal
 placement: on-water
-probabilityInGame: 2
+probabilityInGame: 8
 probabilityMapGen: 6
 prospectChance: 0
 tiles:
